@@ -2,6 +2,6 @@
 
 let sayHello = require('./index')
 
-let name = "xiaobei"
+let name = "renxiaobei"
 
 sayHello(name)
